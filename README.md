@@ -1,2 +1,2 @@
 # Expense-tracker
-It is an expense tracker project
+This Excel project is a tracker sheet for the year 2025 used to record, organize, and analyze expenses throughout the year. It helps monitor spending and maintain financial records in a structured way. The project uses Excel formulas such as VLOOKUP, XLOOKUP, HLOOKUP, SUMIF, and COUNTIF for data lookup and calculations. It also includes an interactive dashboard with Pivot Tables and Pivot Charts to present summaries and spending insights clearly.
